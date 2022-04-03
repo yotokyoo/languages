@@ -1,0 +1,53 @@
+{
+    "pages":{
+        "index":{
+            "whoWeAre":{
+                "title":"Who are we?",
+                "description": "We are a place that aims to provide quality and reliable service for you. Our aim is for you to enjoy fast and high quality socialization in a comfortable way."
+            },
+            "main":{
+                "words":{
+                    "1":"is quick",
+                    "2": "is quality",
+                    "3":"is reliable"
+                }
+            },
+            "footer":{
+                "description":"Made by Vupy Team and ❤"
+            }
+        },
+        "login":{
+            "register":"Don't have an account? Register now!",
+            "forgotPassword":"I forgot my password",
+            "usernameOrEmail":"Username or email",
+            "password":"Password",
+            "loginButton":"Login"
+        },
+        "register":{
+            "login":"Do you have an account? Sign in now!",
+            "forgotPassword":"I forgot my password",
+            "email":"E-mail",
+            "username":"Username",
+            "password":"Password",
+            "registerButton":"Register"
+        },
+        "errors":{
+                "404":{
+                    "title":"We couldn't find such a page here!",
+                    "description":"The page you are looking for does not exist."
+            }
+},
+    "partners":{
+        "description":"We are working with some partners to make this website better. If you want to know more about them, you can have a look below.",
+        "words":{
+            "1":"Partners"
+        }
+    }
+},
+"navbar":{
+"partners":"Partners",
+"register":"Register",
+"login":"Login",
+"profile":"Profile"
+}
+}
