@@ -1,3 +1,54 @@
 {
-  
+    "pages":{
+        "index":{
+            "title":"",
+            "whoWeAre":{
+                "title":"Biz kimiz?",
+                "description": "Biz sizler için kaliteli ve güvenilir hizmeti sunabilmeyi hedefleyen bir yeriz. Amacımız sizin rahat bir şekilde hızlı ve kaliteli sosyalleşmenin keyfini yaşamanız."
+            },
+            "main":{
+                "words":{
+                    "1":" hızlı",
+                    "2": "kaliteli",
+                    "3":"güvenilir"
+                }
+            },
+            "footer":{
+                "description":"Vupy Takımı tarafından ❤ ile yapıldı."
+            }
+        },
+        "login":{
+            "register":"Hesabın yokmu? Hemen kayıt ol!",
+            "forgotPassword":"Şifremi Unuttum",
+            "usernameOrEmail":"Kullanıcı adı veya e-posta",
+            "password":"Şifre",
+            "loginButton":"Giriş Yap"
+        },
+        "register":{
+            "login":"Hesabın varmı? Hemen giriş yap!",
+            "forgotPassword":"Şifremi Unuttum",
+            "email":"E-posta",
+            "username": "Kullanıcı Adı",
+            "password":"Şifre",
+            "registerButton":"Kayıt Ol"
+        },
+        "errors":{
+                "404":{
+                    "title":"Burada böyle bir sayfa bulamadık!",
+                    "description":"Aradığınız sayfa mevcut değil."
+            }
+},
+    "partners":{
+        "description":"Bu web sitesini daha iyi hale getirmek için bazı ortaklarla çalışıyoruz. Onlar hakkında daha fazla bilgi edinmek isterseniz, aşağıdan bir göz atabilirsiniz.",
+        "words":{
+            "1":"Ortaklarımız"
+        }
+    }
+},
+"navbar":{
+"partners":"Ortaklarımız",
+"register":"Kayıt Ol",
+"login":"Giriş Yap",
+"profile":"Profil"
+}
 }
