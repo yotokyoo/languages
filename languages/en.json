@@ -3,7 +3,7 @@
         "index":{
             "whoWeAre":{
                 "title":"Who are we?",
-                "description": "We are a place that aims to provide quality and reliable service for you. Our aim is for you to enjoy fast and high quality socialization in a comfortable way."
+                "description": "We are a place that aims to provide quality and reliable service for you. Our goal is for you to enjoy fast and high quality socialization in a comfortable way."
             },
             "main":{
                 "words":{
@@ -26,7 +26,7 @@
         "register":{
             "login":"Do you have an account? Sign in now!",
             "forgotPassword":"I forgot my password",
-            "email":"E-mail",
+            "email":"E-Mail",
             "username":"Username",
             "password":"Password",
             "registerButton":"Register"
