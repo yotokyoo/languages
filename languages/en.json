@@ -3,7 +3,7 @@
         "index":{
             "whoWeAre":{
                 "title":"Who are we?",
-                "description": "We are a place that aims to provide quality and reliable service for you. Our goal is for you to enjoy fast and high quality socialization in a comfortable way."
+                "description": "We are a new social network that aims to provide quality and reliable service for you. Our goal is for you to enjoy fast and high quality socialization in a comfortable way."
             },
             "main":{
                 "words":{
@@ -13,7 +13,7 @@
                 }
             },
             "footer":{
-                "description":"Made by Vupy Team and ❤"
+                "description":"Made by Vupy Team with ❤"
             }
         },
         "login":{
@@ -38,7 +38,7 @@
             }
 },
     "partners":{
-        "description":"We are working with some partners to make this website better. If you want to know more about them, you can have a look below.",
+        "description":"We are working with our partners to make this website better. If you want to know more about them, you can have a look below.",
         "words":{
             "1":"Partners"
         }
